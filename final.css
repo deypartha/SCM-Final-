@@ -1,0 +1,218 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  .head{
+    width: 100%;
+    height: 50px;
+  }
+  .main{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    z-index: 1;
+  }
+  .add-last{
+    display: flex;
+    justify-content: center;
+  
+  }
+  .p3{
+    height: 40px;
+    width: 50px;
+  }
+  .png2{
+    height: 40px;
+    width: 60px;
+  }
+  #s1{
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+  }
+  .form-control{
+    width: 350px;
+    height: 30px;
+    /* border-radius: 10px; */
+  }
+  .btn.btn-success{
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(130, 85, 158);
+    color: aliceblue;
+  }
+  .btn.btn-outline-primary{
+    /* height: 30px; */
+    border-radius: 5px;
+    background-color: rgb(103, 72, 158);
+    color: aliceblue;
+  }
+  .container-fluid{
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: chocolate;
+    position: absolute;
+    z-index: 2; 
+  }
+  .a1{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  .dropdown-toggle{
+    background-color: chocolate;
+    border: none;
+    color: aliceblue;
+  }
+  .sign{
+    border: 1px solid aliceblue;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+  }
+  /* .carousel-slide{
+  display: flex;
+  width: 80%;
+  } */
+  div#row.row{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* background-color: aquamarine; */
+    /* margin-right: 1000px; */
+  }
+  div.col-sm-2{
+    
+    height: 450px;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+    background-color: aliceblue;
+  
+  }
+  div.col-sm-2 img {
+    width: calc(50% - 5px); /* Adjust width and gap */
+    height: 150px;
+  }
+  
+  .about{
+    text-decoration: none;
+    font-size: 18px;
+  }
+  #hello{
+    height: 300px;
+    background-color: rgb(176, 216, 217);
+  }
+  a.a2{
+    height: 20px;
+    text-decoration: none;
+  }
+  div.col-sm-12{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .imm{
+    height: 100%;
+    width: 150px;
+  }
+  
+  
+  .carousal-slide{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .carousel-item img {
+    /* Set the desired height and width for the images */
+    height: 100%; /* Adjust as needed */
+    width: 100%; /* Ensures the image fills its container */
+  }
+  
+  .slide{
+    height: 100%;
+    width: 100%;
+    
+  }
+  .custom-jumbotron {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .col-md-2{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(199, 226, 226);
+  }
+  .h3{
+    background-color: white;
+  }
+  
+  .nav_cart{
+    font-size: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  div.add{
+    height: 50px;
+    font-size: 15px;
+    
+    align-items: center;
+  }
+  div.add-last{
+    
+    margin-top: -10px;
+  }
+  .hh41{
+    font-size: 20px;
+    margin-top: -5px;
+  }
+  .sign{
+    width: 60px;
+    color: black;
+    background-color: rgb(138, 193, 242);
+    font-size: 15px;
+  }
+  .pcart{
+    margin-top: 20px;
+  }
+  .nav-search{
+    height: 50px;
+    display: flex;
+    align-items: center;
+  }
+  .search-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellowgreen;
+    height: 30px;
+    width: 25px;
+  }
+  .search-bar{
+    height: 30px;
+    width: 400px;
+    border: black;
+  }
+  select{
+    height: 31px;
+    width: 40px;
+  }
