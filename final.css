@@ -106,52 +106,7 @@
     height: 150px;
   }
   
-  /* .about{
-    text-decoration: none;
-    font-size: 18px;
-  }
-  #hello{
-    height: 300px;
-    background-color: rgb(176, 216, 217);
-  }
-  a.a2{
-    height: 20px;
-    text-decoration: none;
-  } */
-  /* div.col-sm-12{
-    width: 800px;
-    height: 200px;
-    display: flex;
-    justify-content: space-around;
-    
-  }
-  .imm{
-    height: 100%;
-    width: 150px;
-  } */
-  
-  
-  /* .carousal-slide{
-    height: 100%;
-    display: flex;
-    justify-content: center;
-  }
-  .carousel-item img {
-    
-    height: 100%; 
-    width: 100%; 
-  }
-   */
-  /* .slide{
-    height: 100%;
-    width: 100%;
-    
-  } */
-  /* .custom-jumbotron {
-    background-color: #f8f9fa;
-    padding: 20px;
-    margin-bottom: 20px;
-  } */
+ 
   .col-md-2{
     height: 500px;
     display: flex;
