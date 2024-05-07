@@ -106,7 +106,7 @@
     height: 150px;
   }
   
-  .about{
+  /* .about{
     text-decoration: none;
     font-size: 18px;
   }
@@ -117,8 +117,8 @@
   a.a2{
     height: 20px;
     text-decoration: none;
-  }
-  div.col-sm-12{
+  } */
+  /* div.col-sm-12{
     width: 800px;
     height: 200px;
     display: flex;
@@ -128,30 +128,30 @@
   .imm{
     height: 100%;
     width: 150px;
-  }
+  } */
   
   
-  .carousal-slide{
+  /* .carousal-slide{
     height: 100%;
     display: flex;
     justify-content: center;
   }
   .carousel-item img {
-    /* Set the desired height and width for the images */
-    height: 100%; /* Adjust as needed */
-    width: 100%; /* Ensures the image fills its container */
+    
+    height: 100%; 
+    width: 100%; 
   }
-  
-  .slide{
+   */
+  /* .slide{
     height: 100%;
     width: 100%;
     
-  }
-  .custom-jumbotron {
-    background-color: #f8f9fa; /* Light gray background color */
+  } */
+  /* .custom-jumbotron {
+    background-color: #f8f9fa;
     padding: 20px;
     margin-bottom: 20px;
-  }
+  } */
   .col-md-2{
     height: 500px;
     display: flex;
