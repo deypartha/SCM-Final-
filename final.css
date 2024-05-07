@@ -77,18 +77,12 @@
     background-color: black;
     color: aliceblue;
   }
-  /* .carousel-slide{
-  display: flex;
-  width: 80%;
-  } */
   div#row.row{
     height: 350px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    /* background-color: aquamarine; */
-    /* margin-right: 1000px; */
   }
   div.col-sm-2{
     
@@ -99,14 +93,11 @@
     flex-wrap: wrap;
     gap: 10px;
     background-color: aliceblue;
-  
   }
   div.col-sm-2 img {
     width: calc(50% - 5px); /* Adjust width and gap */
     height: 150px;
   }
-  
- 
   .col-md-2{
     height: 500px;
     display: flex;

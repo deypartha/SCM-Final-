@@ -55,7 +55,14 @@
                 <option value="sikkim">sikkim</option>
             </select>
               </div>
-              <button class="sign">Sign in</button>
+              <button id="signInButton">Sign in</button>
+        <script>
+        function signIn() {
+        alert("Are you sure");
+        }
+        var signInButton = document.getElementById("signInButton");
+        signInButton.onclick = signIn;
+        </script>
               <p class="pcart">Returns &
                 orders
               </p>
